@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Office Online (Chrome)",
+      "port": 3000,
+      "request": "launch",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "Debug: Web"
+    }
+  ]
+}
